@@ -1,5 +1,5 @@
 # Cricket-Data-Analysis
-Analyzing 2022 Men's T20 World Cup data to select best 11 players
+Analyzing performance of players in 2022 Men's T20 World Cup to select best 11 players.
 
 Shortlisted Openers
 
